@@ -3,7 +3,7 @@
 
 ## 📈 Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlekcWinS&show_icons=true&theme=react&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlekcWinS&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekcWinS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
