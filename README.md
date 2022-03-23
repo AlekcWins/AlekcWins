@@ -24,6 +24,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/300px-Java_logo.svg.png" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
-<img align="left" alt="Spring" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
+<img align="left" alt="Spring" width="60px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
 <br />
 <br />
