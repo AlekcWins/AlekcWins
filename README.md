@@ -10,7 +10,9 @@
 
 
 [<img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />](https://vk.com/alekcwins)
-[<img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/AlexNenakhov)
+[<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/AlexNenakhov)
+[<img align="left" alt="HH" width="22px" src="https://ru.wikipedia.org/wiki/HeadHunter#/media/%D0%A4%D0%B0%D0%B9%D0%BB:HeadHunter_logo.png" />](https://astrakhan.hh.ru/applicant/resumes/view?resume=26ba6d62ff083482140039ed1f4b6572747372)
+[<img align="left" alt="Habr" width="22px" src="https://career.habr.com/alexwins" />](https://t.me/AlexNenakhov)
 
 <br />
 
